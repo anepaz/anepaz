@@ -2,7 +2,7 @@
 
 - 🔭 Estagio como web dev
 - :diamonds: Atualmente aprendendo Ruby on Rails
-- :computer: Estudo Análise e Desenvolimento de Sistemas
+- :computer: Estudo Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/anepaz"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anepaz&layout=compact&langs_count=7&theme=dracula"/>
