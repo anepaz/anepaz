@@ -1,8 +1,8 @@
 ### Oi! 🎋 Meu nome é Anelise, frontend dev.
 
 - 🔭 Estagio como web dev
-- :diamonds: Atualmente aprendendo Ruby on Rails
-- :computer: Estudo Análise e Desenvolvimento de Sistemas
+- :diamonds: Atualmente estudando Ruby on Rails
+- :computer: Curso Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/anepaz"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anepaz&layout=compact&langs_count=7&theme=dracula"/>
