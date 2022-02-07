@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="anesp@protonmail.com" alt="Email">
+  <a href="email:anesp@protonmail.com" alt="Email">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=proton&logoColor=white&link=anesp@protonmail.com"/></a>
 
   <a href="https://www.linkedin.com/in/anesp" alt="Linkedin">
