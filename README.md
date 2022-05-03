@@ -7,11 +7,13 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, Javascript e Ruby.</strong>
+  🦄 Linguagens:
+  <p><strong>HTML, CSS, Javascript e Ruby.</strong></p>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Sublime Text, Figma, Photoshop CS6.</strong>
+  💼 Ferramentas:
+  <p><strong>Sublime Text, Figma, Photoshop CS6.</strong></p>
 </p>
 
 <p align="left">
