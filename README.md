@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/86319685/165975133-11ee559d-38c5-4582-9cfe-2bd01dfe507c.png" min-width="100px" max-width="200px" width="200px" align="right" alt="avatar ane">
+<!-- <img src="https://user-images.githubusercontent.com/86319685/165975133-11ee559d-38c5-4582-9cfe-2bd01dfe507c.png" min-width="100px" max-width="200px" width="200px" align="right" alt="avatar ane"> -->
 
 
 <p align="left"> 
