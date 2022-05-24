@@ -2,22 +2,21 @@
 
 
 <p align="left"> 
-  Olá, meu nome é Anelise e eu sou <strong>desenvolvedora web</strong>.<br>
-  Atualmente, faço estágio na 87Labs.
+  Hi, my name is Anelise and I'm a <strong>web developer</strong> currently working at 87Labs.
 </p>
 
 <p align="left">
-  🦄 Linguagens:
+  🦄 Languages:
   <p><strong>HTML, CSS, Javascript e Ruby.</strong></p>
 </p>
 
 <p align="left">
-  💼 Outros:
+  💼 Tools&Others:
   <p><strong>Sublime Text, Figma, Heroku, Travis CI, Photoshop CS6.</strong></p>
 </p>
 
 <p align="left">
-  💌 Contatos: ⤵️
+  💌 Contact me on ⤵️
 </p>
 
 <p align="left">
