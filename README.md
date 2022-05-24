@@ -12,8 +12,8 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas:
-  <p><strong>Sublime Text, Figma, Photoshop CS6.</strong></p>
+  💼 Outros:
+  <p><strong>Sublime Text, Figma, Heroku, Travis CI, Photoshop CS6.</strong></p>
 </p>
 
 <p align="left">
