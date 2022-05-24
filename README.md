@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
-  Hi, my name is Anelise and I'm a <strong>web developer</strong> currently working at 87Labs.
+  👋 Hi, my name is Anelise and I'm a <strong>web developer</strong> currently working at 87Labs.
 </p>
 
 <p align="left">
