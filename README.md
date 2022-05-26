@@ -12,7 +12,7 @@
 
 <p align="left">
   💼 Tools&Others:
-  <p><strong>Sublime Text, Figma, Heroku, Travis CI, Photoshop CS6.</strong></p>
+  <p><strong>Sublime Text, Figma, Heroku, Travis CI, Photoshop CS6, Google Optimize.</strong></p>
 </p>
 
 <p align="left">
