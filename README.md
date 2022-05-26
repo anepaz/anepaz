@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
-  👋 Hi, my name is <strong>Anelise</strong> and I'm a web developer currently interning and learning a lot at 87Labs.
+  👋 Hi, my name is <strong>Anelise</strong> and I'm a web developer currently interning and learning a lot at <u>87Labs</u>.
 </p>
 
 <p align="left">
