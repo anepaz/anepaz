@@ -46,3 +46,14 @@
   <a href="https://www.instagram.com/aneepsza_" target="_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/aneepsza_"/></a>
 </p>  
+
+<br>
+<br>
+
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=anepaz&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<br>
+
+<div align="center">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=anepaz&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anepaz&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
