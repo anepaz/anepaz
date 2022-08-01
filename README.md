@@ -22,7 +22,7 @@
 </h2>
 <img src=https://assignmentstudio.net/wp-content/uploads/2021/02/giphy.gif" width="30%" height="30%" align="right">                                         <br>
  
-<p align="left"><strong>💼 Some tools I use:</p></strong>
+<p align="left"><strong>💼 Some other things:</p></strong>
 <ul>
 <li>Sublime Text</li>
 <li>Figma</li>
