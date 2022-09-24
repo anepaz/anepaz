@@ -8,7 +8,7 @@
 </h2>
 
 <p align="left"> 
-  👋 My name is <strong>Anelise</strong> and I'm a web developer currently interning and learning a lot at a company called <u>87Labs</u>.
+  👋 My name is <strong>Anelise</strong> and I'm a web developer currently learning a lot at a company called <u>87Labs</u>.
 </p>
 
 <span><strong>🦄 Languages I practice daily:</strong></span>
