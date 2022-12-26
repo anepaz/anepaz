@@ -8,7 +8,7 @@
 </h2>
 
 <p align="left"> 
-  👋 My name is <strong>Anelise</strong> and I'm a web developer currently learning a lot at a company called <u>87Labs</u>.
+  👋 My name is <strong>Anelise</strong> and I'm a self-taught web developer.
 </p>
 
 <span><strong>🦄 Languages I practice daily:</strong></span>
@@ -16,7 +16,7 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>Javascript</li>
-<li>Ruby</li>
+<li>React</li>
 </ul>
 
 </h2>
@@ -29,8 +29,7 @@
 <li>Heroku</li>
 <li>Travis CI</li>
 <li>Photoshop CS6</li>
-<li>Google Optimize</li>
-<li>RSpecs</li> 
+<li>JIRA</li> 
 </ul>
 
 <p align="left"><strong>📧 Find me on:</p></strong>
