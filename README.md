@@ -8,7 +8,7 @@
 </h2>
 
 <p align="left"> 
-  👋 My name is <strong>Anelise</strong> and I'm a self-taught web developer who is constantly learning each and every day.
+  👋 My name is <strong>Anelise</strong> and I'm a self-taught web developer who is constantly learning each and every day. I started in the coding world around early 2021 with Front-end learning and my love for development is only growing stronger! 💌
 </p>
 
 <span><strong>🦄 Languages:</strong></span>
