@@ -4,14 +4,14 @@
 <img height="400px" width="700px" src="https://i.pinimg.com/originals/cd/6f/24/cd6f240d6467e74b1452991a638adf99.gif">
 </h4>
 
-<h1 align="center">Hello, there!</h1>
+<h1 align="center">Hi, there!</h1>
 </h2>
 
 <p align="left"> 
-  👋 My name is <strong>Anelise</strong> and I'm a self-taught web developer.
+  👋 My name is <strong>Anelise</strong> and I'm a self-taught web developer who is constantly learning each and every day.
 </p>
 
-<span><strong>🦄 Languages I practice daily:</strong></span>
+<span><strong>🦄 Languages:</strong></span>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
@@ -22,14 +22,15 @@
 </h2>
 <img src=https://assignmentstudio.net/wp-content/uploads/2021/02/giphy.gif" width="30%" height="30%" align="right">                                         <br>
  
-<p align="left"><strong>💼 Some other things:</p></strong>
+<p align="left"><strong>💼 Some of my other skills are in:</p></strong>
 <ul>
 <li>Sublime Text</li>
 <li>Figma</li>
 <li>Heroku</li>
 <li>Travis CI</li>
 <li>Photoshop CS6</li>
-<li>JIRA</li> 
+<li>JIRA</li>
+<li>Postman</li>
 </ul>
 
 <p align="left"><strong>📧 Find me on:</p></strong>
