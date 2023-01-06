@@ -1,8 +1,6 @@
 <!-- <img src="https://user-images.githubusercontent.com/86319685/165975133-11ee559d-38c5-4582-9cfe-2bd01dfe507c.png" min-width="100px" max-width="200px" width="200px" align="right" alt="avatar ane"> -->
 
-<h4 align="center">
-<img height="400px" width="700px" src="https://i.pinimg.com/originals/cd/6f/24/cd6f240d6467e74b1452991a638adf99.gif">
-</h4>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5958f0,100:6520bf&height=210&section=header&text=Anelise%20Paz&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Front-End%20Developer&descAlignY=50">
 
 <h1 align="center">Hi, there!</h1>
 </h2>
