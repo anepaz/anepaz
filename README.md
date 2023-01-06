@@ -3,7 +3,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5958f0,100:6520bf&height=210&section=header&text=Anelise%20Paz&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Front-End%20Developer&descAlignY=50">
 
 <p align="left"> 
-  👋 My name is <strong>Anelise</strong> and I'm a self-taught web developer who is constantly learning each and every day. I started in the coding world around early 2021 learning Front-end technologies and my love for this field has only gotten stronger since! 💌
+  👋 My name is <strong>Anelise</strong> and I'm a self-taught web developer who is constantly learning with each and every day. I started in the coding world around early 2021 learning Front-end technologies and my love for this field has only gotten stronger since! 💌
 </p>
 
 <span><strong>🦄 Languages:</strong></span>
