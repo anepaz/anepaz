@@ -14,8 +14,9 @@
 <li>React</li>
 </ul>
 
-</h2>
-<img src=https://assignmentstudio.net/wp-content/uploads/2021/02/giphy.gif" width="30%" height="30%" align="right">                                         <br>
+<span>
+<img src=https://assignmentstudio.net/wp-content/uploads/2021/02/giphy.gif" width="30%" height="30%" align="right">          
+</span>
  
 <p align="left"><strong>💼 Some of my other skills are in:</p></strong>
 <ul>
