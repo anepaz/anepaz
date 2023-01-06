@@ -2,9 +2,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5958f0,100:6520bf&height=210&section=header&text=Anelise%20Paz&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Front-End%20Developer&descAlignY=50">
 
-<h1 align="center">Hi, there!</h1>
-</h2>
-
 <p align="left"> 
   👋 My name is <strong>Anelise</strong> and I'm a self-taught web developer who is constantly learning each and every day. I started in the coding world around early 2021 with Front-end learning and my love for development is only growing stronger! 💌
 </p>
