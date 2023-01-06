@@ -31,6 +31,7 @@
 <li>Photoshop CS6</li>
 <li>JIRA</li>
 <li>Postman</li>
+<li>Git</li>             
 </ul>
 
 <p align="left"><strong>📧 Find me on:</p></strong>
