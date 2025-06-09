@@ -1,7 +1,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/86319685/165975133-11ee559d-38c5-4582-9cfe-2bd01dfe507c.png" min-width="100px" max-width="200px" width="200px" align="right" alt="avatar ane"> -->
 
 <p align="left"> 
-  ✍ Hi, this is <strong>Anne</strong>! I'm a teacher and an aspiring Tech Writer 
+  ✍ Hi, this is <strong>Anne</strong>! I'm a teacher and a Frontend web developer :)
 </p>
 <p align="left"> 
   📍 Welcome to my page 
